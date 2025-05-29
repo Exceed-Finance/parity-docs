@@ -1,3 +1,0 @@
-# Market Risks
-
-Market Risks encompass the challenges associated with maintaining delta neutrality and managing the risk of negative returns. Parity employs a sophisticated hedging strategy to ensure that its reserves remain stable, even amid price swings in major cryptocurrencies. While extreme market conditions could pose risks, Parity has a fallback arrangement with Franklin Templeton to shift reserves into tokenized short-term treasuries if crypto-native returns turn negative. The protocol’s real-time monitoring and proprietary hedging infrastructure ensure stability, protecting Parity Dollar’s peg to USDC.
