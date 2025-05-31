@@ -10,7 +10,7 @@ Yield on synthetic USDC is derived from three core mechanisms:
 
 Parity allocates capital into the JLP pool, which powers Solana’s leading Perps DEX, earning a share of trading fees and funding from perpetual traders.
 
-#### Slana Basis Trade
+#### Solana Basis Trade
 
 Parity runs a delta-neutral strategy by staking SOL while shorting SOL perps. This earns:
 
