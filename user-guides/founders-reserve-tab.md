@@ -22,7 +22,7 @@ Shows how many FPT Points you'll receive based on the amount entered above.
 Click Purchase to confirm your transaction and receive FPT Points. You’ll be prompted to approve the transaction in your connected wallet. You're now one step closer to joining the Founders Reserve.
 
 **6. Lifetime Seats Counter**\
-Shows how many of the 100 limited Lifetime Seats are still available. These seats are granted to users who purchase 30M FPT Points and are non-competitive and permanent. Seats are awarded on a first past the line principle.&#x20;
+Shows how many of the 100 limited Lifetime Seats are still available. These seats are granted to users who purchase or earn (through reserve staking) 30M FPT Points and are non-competitive and permanent. Seats are awarded on a first past the line principle.&#x20;
 
 **7. Competitive Seats Counter**\
 Displays how many of the 400 competitive seats are still available. These seats can be earned by reaching 2 million FPT Points (through reserve staking or purchase) and maintaining a 500-day staking streak. If you **withdraw** or **lose eligibility**, your seat may be reallocated to someone else who meets the criteria. You **keep your seat** even if others qualify **as long as** you **don’t break your streak** or **sell** your FPT / Parity Tokens. The explainer on streaks is in another section.

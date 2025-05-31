@@ -23,7 +23,7 @@ Actual unstaking duration ranges from **24 to 48 hours**, depending on when your
 <figure><img src="../.gitbook/assets/Withdrawals (3).png" alt=""><figcaption></figcaption></figure>
 
 **1. Stage 1 — Pending (0–24 hours)**\
-This is the initial stage of the withdrawal period. During this time, your request is still **cancelable**. If you change your mind and want to continue staking, simply click the **"Cancel"** button. There is no fee for cancelling a withdrawal request.
+This is the initial stage of the withdrawal period. During this time, your request is still **cancelable**. If you change your mind and want to continue staking, simply click the **"Cancel"** button. There is no fee for cancelling a withdrawal request. And your unstaking fee will also be returned in full.  &#x20;
 
 **2. Stage 2 — Committed (24–48 hours)**\
 Once the first 24 hours have passed, your withdrawal request becomes **locked**. It can no longer be canceled, and your funds are now in the final settlement window.

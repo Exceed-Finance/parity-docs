@@ -6,27 +6,27 @@
 
 #### Built-In Stability
 
-All Parity assets are redeemable at par. Every synthetic token is backed by real, yield-generating collateral, and the system is designed to maintain solvency and liquidity at all times.
+Parity's synetheic LSTs are redeemable at par value for the underlying assets at any time. Every synthetic token is backed by yield-generating collateral.
 
 #### Delta-Neutral & Pegged by Design
 
-Through derivatives and dynamic exposure management, the protocol maintains delta-neutrality and full SOL exposure — keeping value stable in USD terms for USDC-based assets and in SOL terms for SOL-based ones.
+Through derivatives and dynamic exposure management, the protocol maintains delta-neutrality and full SOL exposure — keeping value stable in USD terms for USDC-based synthetic assets and in SOL terms for SOL-based ones.
 
 #### Automatic Yield Adaptation
 
-Our infrastructure monitors markets in real time. When validator yields or benchmark stablecoin rates outperform market-based sources (e.g. fees, funding), Parity reallocates automatically — ensuring users always earn competitive returns.
+Our infrastructure adapts to markets in real time. When validator yields or benchmark stablecoin rates outperform market-based sources (e.g. fees, funding), Parity reallocates automatically — ensuring users always earn competitive returns.
 
 #### Liquidity-First Architecture
 
-Underlying assets are liquid and composable. Even during market stress, positions can be efficiently unwound with minimal cost — guaranteeing redemption access.
+Underlying collateral is liquid and composable. Even during market stress, collateral can be efficiently unwound with minimal cost — ensuring timely redemption.
 
 #### Secure & Transparent Custody
 
-Assets are held in institutional-grade, non-custodial wallets (Fireblocks). This setup minimizes both operational and custodial risk.
+Colalteral is held in institutional-grade, non-custodial wallets (Fireblocks). This setup minimizes both operational and custodial risk.
 
 #### TradFi-Backed Fallbacks
 
-In extreme scenarios, the protocol can shift capital into tokenized treasury funds (e.g. Franklin Templeton’s Benji Fund), providing a crypto-to-TradFi safety rail that anchors value to regulated, dollar-denominated assets.
+In extreme scenarios, the protocol can shift colateral into Franklin Templeton’s tokenized treasury Benji fund, providing a crypto-to-TradFi safety rail that anchors value to regulated, USD-denominated assets.
 
 #### Audited, Battle-Tested Code
 

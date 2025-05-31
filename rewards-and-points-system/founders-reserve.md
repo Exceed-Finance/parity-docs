@@ -35,7 +35,7 @@ Both tracks follow a **first-past-the-line** principle: Seats are allocated in r
 
 ## Live Leaderboard
 
-A **real-time leaderboard** will be available in the app, showing:
+A **real-time leaderboard** will be available in the dApp, showing:
 
 * How many Lifetime and Competitive Seats remain
 * Your current standing vs. others

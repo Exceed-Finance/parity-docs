@@ -20,10 +20,10 @@ Parity runs a delta-neutral strategy by staking SOL while shorting SOL perps. Th
 
 #### Crypto Risk Free Rate Switching
 
-When market conditions reduce returns below the prevailing USD crypto risk free rate (the baseline stablecoin yield available on blue-chip borrow-lend protocols), Parity automatically reallocates to those benchmark strategies. This includes either:
+When market-based returns fall below the prevailing USD crypto risk free rate (the baseline stablecoin yield available on blue-chip borrow-lend protocols), Parity automatically reallocates to those benchmark strategies. This includes either:
 
-* Switching to leading DeFi lending protocols (e.g. Kamino, DRIFT)
-* Or converting reserves into Franklin Templeton’s Benji Token, via Parity’s integration agreement
+* Switching to leading DeFi lending protocols on Solana (e.g. Kamino, DRIFT)
+* Alternatively, converting collateral into Franklin Templeton’s Benji Token to earn baseline yield from US Treasury Bills, via Parity’s integration agreement with Franklin Templeton
 
 This dynamic floor ensures that Parity never underperforms what users could get from low-risk DeFi yield options.
 
@@ -31,7 +31,7 @@ This dynamic floor ensures that Parity never underperforms what users could get 
 
 Parity ensures synthetic USDC stays pegged to $1 through:
 
-* Full redeemability at par
-* Real-time rebalancing to maintain delta-neutrality of reserves
+* Redeemability of synthetic USDC at par value for USDC at any time
+* Real-time rebalancing to maintain delta-neutrality of collateral
 
-Reserves are always transparent and auditable via the protocol’s dashboard. **Every pikUSDC and pitUSDC token is backed by real, productive collateral** designed to maintain both liquidity and peg integrity under a wide range of market conditions.
+Aallocations are always transparent and auditable via the protocol’s dashboard. **Every pikUSDC and pitUSDC token is backed by productive collateral** designed to maintain both liquidity and peg integrity under a wide range of market conditions.

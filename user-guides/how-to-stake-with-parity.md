@@ -6,7 +6,7 @@ This is the first screen you’ll see in the Parity App - the staking tab. You�
 
 ### Regular Staking
 
-Choose **Regular Staking** to earn yield through synthetic liquid staking tokens — **pikSOL** and **pikUSDC**. These tokens **grow in value over time** relative to their underlying assets. It’s a simple, high-yield option designed for users who want to passively benefit from Parity’s synthetic staking engine without needing to actively manage anything.
+Choose **Regular Staking** to earn yield through synthetic liquid staking tokens — **pikSOL** and **pikUSDC**. These tokens **grow in value over time** relative to their underlying assets. It’s a simple option designed for users who want to passively benefit from Parity’s synthetic staking engine without needing to actively manage anything.
 
 {% hint style="info" %}
 PiK stands for “Payment-in-Kind” — meaning your rewards are paid in the same token you deposit.

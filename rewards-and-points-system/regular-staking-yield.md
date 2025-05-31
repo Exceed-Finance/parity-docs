@@ -18,7 +18,7 @@ All yields are shown as **annualized, compounded rates**, meaning they account f
 
 #### Transparent Inputs
 
-Yields are derived from the underlying performance of Parity’s yield engines — including JLP trading commissions, funding rates, and validator rewards.
+Yields are derived from the underlying performance of Parity’s synthetic yield engines — including JLP trading commissions, funding rates, and validator rewards. See the High-Yielding Synthetic USDC and SOL sections for an explanation of yield sources. &#x20;
 
 {% hint style="success" %}
 What you see is what you get. No guesswork, no lag.

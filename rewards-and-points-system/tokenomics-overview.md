@@ -1,6 +1,6 @@
 # Tokenomics Overview
 
-Parity's tokenomics are designed with **long-term alignment and radical transparency** in mind. There are **100 billion tokens** in total, with distribution centered around users, contributors, and long-term growth — not short-term speculation.
+Parity's tokenomics are designed with **long-term alignment and transparency** in mind. There are **100 billion tokens** in total, with distribution centered around users and long-term growth — not short-term speculation.
 
 ## Key Principles
 
@@ -10,12 +10,11 @@ Users are at the heart of the Parity ecosystem. The largest share of tokens is a
 
 #### Clear, Real-Time Rewards
 
-Unlike most point programs, FPT Points are **fully transparent** and **simple**:
+Unlike most points programs, FPT Points are **fully transparent** and **simple**:
 
 * 1 FPT Point = 1 Parity Token at TGE
 * Your token rewards are updated in real time
-* No opaque multipliers or retroactive surprise allocations
-* TGE timing is public and TVL-dependent — no uncertainty
+* TGE timing is public and TVL-dependent ($300M target) — no uncertainty
 
 #### Team-Aligned, Long-Term
 
@@ -28,7 +27,7 @@ This reflects deep commitment to building the protocol for the long haul — not
 
 #### Built by the Team, For the Users
 
-Parity is founded by builders who are also users — and who are designing the system they wish existed. The result is a protocol where users come first and ownership is earned through contribution.
+Parity is founded by builders who are also users — and who are designing the system they wish existed. The result is a protocol where users come first, and ownership is earned through contribution.
 
 #### Community-Funded, Not VC-Driven
 

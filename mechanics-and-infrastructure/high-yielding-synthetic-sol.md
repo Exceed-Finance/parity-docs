@@ -8,7 +8,7 @@ Yield on synthetic SOL is powered by three coordinated mechanisms:
 
 #### 1. JLP Trading Commissions
 
-Parity allocates capital into the JLP pool, which powers Solana’s leading Perps DEX, earning a share of trading fees and funding from perpetual traders.
+Parity allocates capital into the JLP pool, which powers Solana’s leading Perps DEX, earning a share of trading fees and funding from perpetuals traders.
 
 #### 2. Perpetual Funding Rates
 
@@ -20,15 +20,15 @@ When blockchain-native staking rewards (validator yield) exceed market-based ret
 
 ## Maintaining SOL Exposure and Peg
 
-To ensure that synthetic SOL tracks the performance of native SOL:
+To ensure that synthetic SOL 1:1 tracks the performance of native SOL:
 
 * The protocol uses a combination of JLP pool exposure, SOL-denominated derivatives, and validator staking
-* This allows Parity to mirror SOL’s price behavior while capturing yield from multiple sources
+* This allows Parity to mirror SOL’s price behavior 1:1 while capturing yield from multiple sources
 
 The peg is maintained through:
 
-* Redeemability of synthetic SOL at par
+* Redeemability of synthetic SOL at par value for SOL at any time
 * Real-time asset-liability matching
-* A transparent reserve dashboard displaying real collateral composition
+* A transparent dashboard displaying real collateral composition
 
-**pikSOL and pitSOL are always backed by real, yield-generating assets**, with built-in protections to prioritize peg stability and risk-adjusted yield.
+**pikSOL and pitSOL are always backed by yield-generating collateral**, with built-in protections to prioritize peg stability and risk-adjusted yield.

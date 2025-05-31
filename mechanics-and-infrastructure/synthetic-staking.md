@@ -10,6 +10,6 @@ When users stake with Parity, they help secure both blockchains and crypto marke
 
 #### Recieve Your sLST
 
-In practice, **users receive a synthetic liquid staking token (sLST)** — such as pikSOL or pikUSDC — which grows in value over time, just like traditional LSTs. The user experience mirrors that of staking with popular protocols on Solana today, with no extra steps or complexity.
+In practice, when staking with Parity **users receive a synthetic liquid staking token (sLST)** — such as pikSOL or pikUSDC — which grows in value over time, just like traditional LSTs. The user experience mirrors that of staking with popular protocols on Solana today, with no extra steps or complexity.
 
 <figure><img src="../.gitbook/assets/Syntetic Staking (3).png" alt=""><figcaption></figcaption></figure>

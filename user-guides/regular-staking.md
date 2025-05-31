@@ -42,7 +42,7 @@ After selecting the amount you wish to unstake and confirming the transaction, y
 <figure><img src="../.gitbook/assets/Regular Staking, PikSOL, Unstake (3).png" alt=""><figcaption></figcaption></figure>
 
 **1. Amount to Unstake**\
-Enter the amount you want to unstake. pikSOL will be converted into SOL and available to claim after 48 hours at the latest. Use the MAX button to automatically fill in your full balance.
+Enter the amount you want to unstake. pikSOL will be converted into SOL and available to claim after 48 hours. Use the MAX button to automatically fill in your full balance.
 
 **2. Tokens Received**\
 Shows the amount of the SOL / USDC you will receive based on the amount of Parity sLSTs you entered and the current exchange rate, taking into account a small withdrawal fee.
