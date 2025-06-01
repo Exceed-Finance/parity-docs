@@ -2,6 +2,8 @@
 
 Parity's tokenomics are designed with **long-term alignment and transparency** in mind. There are **100 billion tokens** in total, with distribution centered around users and long-term growth — not short-term speculation.
 
+<figure><img src="../.gitbook/assets/Tokenomics Overview 3.png" alt=""><figcaption></figcaption></figure>
+
 ## Key Principles
 
 #### Community Eats First
