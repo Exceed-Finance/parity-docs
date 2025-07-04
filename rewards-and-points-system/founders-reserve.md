@@ -1,6 +1,6 @@
 # Founders Reserve
 
-The Founders Reserve is an **exclusive group** of early supporters who gain access to premium benefits and long-term alignment with Parity’s future. A total of **500 seats** are available — split between **Lifetime Seats** and **Competitive Seats** — each granting elevated rewards, governance power, and recognition within the protocol. See the Founders Reserve Section for more details.&#x20;
+The Founders Reserve is an **exclusive group** of early supporters who gain access to premium benefits and long-term alignment with Exceed’s future. A total of **500 seats** are available — split between **Lifetime Seats** and **Competitive Seats** — each granting elevated rewards, governance power, and recognition within the protocol. See the Founders Reserve Section for more details.&#x20;
 
 ## Benefits of the Founders Reserve
 
@@ -9,7 +9,7 @@ Members of the Founders Reserve receive:
 * **Exclusive access** — limited to 500 seats
 * **Revenue share** — earn 5% of protocol fees
 * **Higher staking APYs** — 15% boost
-* **Governance** — vote and help shape the future of Parity
+* **Governance** — vote and help shape the future of Exceed
 * **Transferable access** — seats are represented as NFTs
 
 ## How to Qualify
@@ -18,11 +18,11 @@ There are two ways to earn a seat:
 
 #### **1. Lifetime Seat (100 seats total)**
 
-Earn or purchase **30 million FPT Points** to secure a **permanent, non-revocable seat**. Once you meet the requirement, the seat is yours for life, regardless of future activity.
+Earn or purchase **30 million FET Points** to secure a **permanent, non-revocable seat**. Once you meet the requirement, the seat is yours for life, regardless of future activity.
 
 #### **2. Competitive Seat (400 seats total)**
 
-Hold at least **2 million FPT Points** and maintain a **500-day staking streak** to claim a Competitive Seat.
+Hold at least **2 million FET Points** and maintain a **500-day staking streak** to claim a Competitive Seat.
 
 These seats are **yours to lose** — meaning:
 
@@ -47,12 +47,12 @@ This ensures full transparency and allows users to track progress and stay compe
 
 #### Stake Your Way In
 
-Stake SOL or USDC through **Reserve Staking** to earn **FPT Points** and build your **staking streak**. This lets you progress naturally toward a Competitive or Lifetime Seat.
+Stake SOL or USDC through **Reserve Staking** to earn **FET Points** and build your **staking streak**. This lets you progress naturally toward a Competitive or Lifetime Seat.
 
 <a href="https://app.parityusd.fi/" class="button primary">Stake to Qualify ↗</a>
 
 #### Fast Track Your Access
 
-Purchase FPT Points directly to accelerate your progress toward a Founders Reserve seat. This is ideal if you're looking to **secure a seat early** and unlock benefits immediately.
+Purchase FET Points directly to accelerate your progress toward a Founders Reserve seat. This is ideal if you're looking to **secure a seat early** and unlock benefits immediately.
 
-<a href="https://www.parity.finance/" class="button primary">Buy FPT Points ↗ (Soon)</a>
+<a href="https://www.parity.finance/" class="button primary">Buy FET Points ↗ (Soon)</a>

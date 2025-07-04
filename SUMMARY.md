@@ -2,11 +2,11 @@
 
 ## Overview
 
-* [Parity Finance Overview](README.md)
+* [Exceed Finance Overview](README.md)
 
 ## USER GUIDES
 
-* [How to stake with Parity](user-guides/how-to-stake-with-parity.md)
+* [How to stake with Exceed](user-guides/how-to-stake-with-exceed.md)
 * [Regular Staking](user-guides/regular-staking.md)
 * [Reserve Staking](user-guides/reserve-staking.md)
 * [Withdrawals](user-guides/withdrawals.md)
@@ -21,12 +21,12 @@
 
 ***
 
-* [Risk at Parity](risk-at-parity.md)
+* [Risk at Exceed](risk-at-exceed.md)
 
 ## REWARDS AND POINTS SYSTEM
 
 * [Regular Staking Yield](rewards-and-points-system/regular-staking-yield.md)
-* [Reserve Staking Yield (FPT Points)](rewards-and-points-system/reserve-staking-yield-fpt-points.md)
+* [Reserve Staking Yield (FET Points)](rewards-and-points-system/reserve-staking-yield-fet-points.md)
 * [Founders Reserve](rewards-and-points-system/founders-reserve.md)
 * [Streaks & Loyalty](rewards-and-points-system/streaks-and-loyalty.md)
 * [Tokenomics Overview](rewards-and-points-system/tokenomics-overview.md)

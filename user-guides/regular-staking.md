@@ -24,8 +24,8 @@ After entering your amount, click Stake and confirm the transaction in your wall
 **6. Arrow Button**\
 This button lets you toggle between staking and unstaking modes. If you want to unstake, pikSOL will be converted back into SOL at the displayed exchange and considering a small withdrawal fee.
 
-**7. FPT Points Badge**\
-Shows the number of FPT Points you’ve earned or purchased. FPT Points are redeemable for Parity Tokens at a 1:1 ratio on TGE.
+**7. FET Points Badge**\
+Shows the number of FET Points you’ve earned or purchased. FET Points are redeemable for Exceed Tokens at a 1:1 ratio on TGE.
 
 **8. Wallet Button**\
 Shows the connected wallet and allows you to manage wallet interactions (e.g. switch accounts or disconnect).

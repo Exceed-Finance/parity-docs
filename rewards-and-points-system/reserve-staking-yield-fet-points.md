@@ -1,12 +1,12 @@
-# Reserve Staking Yield (FPT Points)
+# Reserve Staking Yield (FET Points)
 
-Reserve Staking offers the highest rewards in the Parity ecosystem — with yield paid in **FPT Points**, the future native token of the protocol.
+Reserve Staking offers the highest rewards in the Exceed ecosystem — with yield paid in **FET Points**, the future native token of the protocol.
 
-## How FPT Yield Works
+## How FET Yield Works
 
-#### FPT Points = Parity Tokens
+#### FET Points = Exceed Tokens
 
-Each FPT Point will convert 1:1 into Parity Tokens at Token Generation Event (TGE).
+Each FET Point will convert 1:1 into Exceed Tokens at Token Generation Event (TGE).
 
 #### APY in FPT Points
 
@@ -18,7 +18,7 @@ Your yield is calculated based on the amount staked and a target APY (e.g. 50–
 
 #### Formula:
 
-Staked Amount × APY ÷ Token Price = FPT Points Earned
+Staked Amount × APY ÷ Token Price = FET Points Earned
 
 #### TGE Timeline:
 
@@ -32,7 +32,7 @@ The APY for Reserve Staking is set by the protocol as a multiple of regular stak
 
 ### Vesting Schedule
 
-Once FPT Points convert into Parity Tokens at TGE:
+Once FET Points convert into Exceed Tokens at TGE:
 
 * **30% unlocks immediately**
 * **70% vests linearly over 9 months**, **starting after a 3-month cliff**
@@ -41,7 +41,7 @@ This structure ensures a healthy balance between liquidity and long-term alignme
 
 ### Additional Notes
 
-* **FPT Points are non-transferable**
+* **FET Points are non-transferable**
 * They **accrue passively through Reserve Staking**
 * They can also be **purchased via the Founders Reserve tab** for users who wish to accelerate accumulation — whether to secure a **Founders Reserve seat** or simply build a larger future stake
-* FPT Points represent a growing **stake in the future of the protocol**
+* FET Points represent a growing **stake in the future of the protocol**

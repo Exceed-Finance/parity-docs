@@ -1,12 +1,12 @@
-# Risk at Parity
+# Risk at Exceed
 
-**Parity is a synthetic yield infrastructure.** Our architecture is designed from the ground up to deliver high-yielding, crypto-native assets — with risk controls embedded at every layer of the system.
+Exceed **is a synthetic yield infrastructure.** Our architecture is designed from the ground up to deliver high-yielding, crypto-native assets — with risk controls embedded at every layer of the system.
 
 ## How We Manage Risk
 
 #### Built-In Stability
 
-Parity's synetheic LSTs are redeemable at par value for the underlying assets at any time. Every synthetic token is backed by yield-generating collateral.
+Exceed's synetheic LSTs are redeemable at par value for the underlying assets at any time. Every synthetic token is backed by yield-generating collateral.
 
 #### Delta-Neutral & Pegged by Design
 
@@ -14,7 +14,7 @@ Through derivatives and dynamic exposure management, the protocol maintains delt
 
 #### Automatic Yield Adaptation
 
-Our infrastructure adapts to markets in real time. When validator yields or benchmark stablecoin rates outperform market-based sources (e.g. fees, funding), Parity reallocates automatically — ensuring users always earn competitive returns.
+Our infrastructure adapts to markets in real time. When validator yields or benchmark stablecoin rates outperform market-based sources (e.g. fees, funding), Exceed reallocates automatically — ensuring users always earn competitive returns.
 
 #### Liquidity-First Architecture
 

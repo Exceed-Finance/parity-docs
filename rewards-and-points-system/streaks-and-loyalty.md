@@ -1,6 +1,6 @@
 # Streaks & Loyalty
 
-**Streaks** are Parity’s loyalty system — a transparent and consistent way to reward long-term participation in both **Regular** and **Reserve** staking. By staking daily, users earn Streaks that unlock higher yields, increase engagement, and pave the way to exclusive benefits like the **Founders Reserve**.
+**Streaks** are Exceed’s loyalty system — a transparent and consistent way to reward long-term participation in both **Regular** and **Reserve** staking. By staking daily, users earn Streaks that unlock higher yields, increase engagement, and pave the way to exclusive benefits like the **Founders Reserve**.
 
 ## How Streaks Work
 
@@ -28,14 +28,14 @@ Streaks aren’t just about long-term goals — users are rewarded progressively
 | 200     | \~100 days                 | **+10% APY** |
 | 300     | \~150 days                 | **+15% APY** |
 
-Loyalty-based APY boosts are distributed separately from the core yield through the Claim Portal, ensuring full fungibility of Parity’s LSTs.
+Loyalty-based APY boosts are distributed separately from the core yield through the Claim Portal, ensuring full fungibility of Exceed’s LSTs.
 
 ## Progress Toward Founders Reserve
 
-At **500 Streaks** (currnetly achievable in \~250 days at the 2/day max), users become eligible for a Competitive Seat in the Founders Reserve, provided they also meet the required FPT Points threshold.
+At **500 Streaks** (currnetly achievable in \~250 days at the 2/day max), users become eligible for a Competitive Seat in the Founders Reserve, provided they also meet the required FET Points threshold.
 
 {% hint style="info" %}
-Streaks are not just a yield boost — they are your path to long-term status, protocol-level perks, and deeper alignment with Parity.
+Streaks are not just a yield boost — they are your path to long-term status, protocol-level perks, and deeper alignment with Exceed.
 {% endhint %}
 
 The Streak counter caps at 55&#x30;**.**

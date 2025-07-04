@@ -2,7 +2,7 @@
 
 ## Reserve Staking Tab
 
-For users seeking **higher APYs** and **deeper participation** in the Parity ecosystem, Reserve Staking offers an advanced path. When staking in Reserve mode, users receive **pitSOL** or **pitUSDC** — tokens that stay pegged 1:1 to the underlying asset. Instead of growing in value, rewards are accrued as **FPT Points** (Future Parity Tokens), which can later be redeemed 1:1 for Parity Tokens at TGE. Choose your asset, enter the amount, and confirm the transaction to begin earning.
+For users seeking **higher APYs** and **deeper participation** in the Exceed ecosystem, Reserve Staking offers an advanced path. When staking in Reserve mode, users receive **pitSOL** or **pitUSDC** — tokens that stay pegged 1:1 to the underlying asset. Instead of growing in value, rewards are accrued as **FET Points** (Future Exceed Tokens), which can later be redeemed 1:1 for Exceed Tokens at TGE. Choose your asset, enter the amount, and confirm the transaction to begin earning.
 
 <figure><img src="../.gitbook/assets/Reserve Staking, PitSOL, Stake.png" alt=""><figcaption></figcaption></figure>
 
@@ -24,8 +24,8 @@ After entering your amount, click Stake and confirm the transaction in your wall
 **6. Arrow Button**\
 This button lets you toggle between staking and unstaking modes. If you want to unstake, pitSOL will be converted back into SOL at the displayed exchange rate minus a small withdrawal fee, as displayed on the screen.
 
-**7. FPT Points Badge**\
-Shows the number of FPT Points you’ve earned or purchased. FPT Points are redeemable for Parity Tokens at a 1:1 ratio on TGE.
+**7. FET Points Badge**\
+Shows the number of FET Points you’ve earned or purchased. FET Points are redeemable for Exceed Tokens at a 1:1 ratio on TGE.
 
 **8. Wallet Button**\
 Shows the connected wallet and allows you to manage wallet interactions (e.g. switch accounts or disconnect).
@@ -45,7 +45,7 @@ After selecting the amount you wish to unstake and confirming the transaction, y
 Enter the amount you want to unstake. pitSOL will be converted into SOL and available to claim after 48 hours. Use the MAX button to automatically fill in your full balance.
 
 **2. Tokens Received**\
-Shows the amount of the SOL / USDC you will receive based on the amount of Parity sLSTs you entered and the current exchange rate, taking into account a small withdrawal fee.
+Shows the amount of the SOL / USDC you will receive based on the amount of Exceed sLSTs you entered and the current exchange rate, taking into account a small withdrawal fee.
 
 **3. Unstake Button**\
 Click this button to begin the unstaking process. Once confirmed in your wallet, a pending withdrawal will be created. Funds will be available for withdrawal after a 48 hour period.
