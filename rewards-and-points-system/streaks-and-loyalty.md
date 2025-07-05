@@ -32,7 +32,7 @@ Loyalty-based APY boosts are distributed separately from the core yield through 
 
 ## Progress Toward Founders Reserve
 
-At **500 Streaks** (currnetly achievable in \~250 days at the 2/day max), users become eligible for a Competitive Seat in the Founders Reserve, provided they also meet the required FET Points threshold.
+At **500 Streaks** (currnetly achievable in \~250 days at the 2/day max), users become eligible for a Competitive Seat in the Founders Reserve, provided they also meet the required FXT Points threshold.
 
 {% hint style="info" %}
 Streaks are not just a yield boost — they are your path to long-term status, protocol-level perks, and deeper alignment with Exceed.

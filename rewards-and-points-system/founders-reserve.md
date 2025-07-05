@@ -18,11 +18,11 @@ There are two ways to earn a seat:
 
 #### **1. Lifetime Seat (100 seats total)**
 
-Earn or purchase **30 million FET Points** to secure a **permanent, non-revocable seat**. Once you meet the requirement, the seat is yours for life, regardless of future activity.
+Earn or purchase **30 million FXT Points** to secure a **permanent, non-revocable seat**. Once you meet the requirement, the seat is yours for life, regardless of future activity.
 
 #### **2. Competitive Seat (400 seats total)**
 
-Hold at least **2 million FET Points** and maintain a **500-day staking streak** to claim a Competitive Seat.
+Hold at least **2 million FXT Points** and maintain a **500-day staking streak** to claim a Competitive Seat.
 
 These seats are **yours to lose** — meaning:
 
@@ -47,12 +47,12 @@ This ensures full transparency and allows users to track progress and stay compe
 
 #### Stake Your Way In
 
-Stake SOL or USDC through **Reserve Staking** to earn **FET Points** and build your **staking streak**. This lets you progress naturally toward a Competitive or Lifetime Seat.
+Stake SOL or USDC through **Reserve Staking** to earn **FXT Points** and build your **staking streak**. This lets you progress naturally toward a Competitive or Lifetime Seat.
 
-<a href="https://app.parityusd.fi/" class="button primary">Stake to Qualify ↗</a>
+<a href="https://app.parityusd.fi/" class="button primary">Stake to Qualify</a>
 
 #### Fast Track Your Access
 
-Purchase FET Points directly to accelerate your progress toward a Founders Reserve seat. This is ideal if you're looking to **secure a seat early** and unlock benefits immediately.
+Purchase FXT Points directly to accelerate your progress toward a Founders Reserve seat. This is ideal if you're looking to **secure a seat early** and unlock benefits immediately.
 
-<a href="https://www.parity.finance/" class="button primary">Buy FET Points ↗ (Soon)</a>
+<a href="https://www.parity.finance/" class="button primary">Buy FXT Points (Soon)</a>

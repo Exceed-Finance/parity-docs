@@ -8,13 +8,13 @@ Exceed's tokenomics are designed with **long-term alignment and transparency** i
 
 #### Community Eats First
 
-Users are at the heart of the Exceed ecosystem. The largest share of tokens is allocated to users via the FET Points system, rewarding early participation and long-term engagement.
+Users are at the heart of the Exceed ecosystem. The largest share of tokens is allocated to users via the FXT Points system, rewarding early participation and long-term engagement.
 
 #### Clear, Real-Time Rewards
 
-Unlike most points programs, FPT Points are **fully transparent** and **simple**:
+Unlike most points programs, FXT Points are **fully transparent** and **simple**:
 
-* 1 FET Point = 1 Exceed Token at TGE
+* 100 FXT Points = 1 Exceed Token at TGE
 * Your token rewards are updated in real time
 * TGE timing is public and TVL-dependent ($300M target) — no uncertainty
 

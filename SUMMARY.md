@@ -26,7 +26,7 @@
 ## REWARDS AND POINTS SYSTEM
 
 * [Regular Staking Yield](rewards-and-points-system/regular-staking-yield.md)
-* [Reserve Staking Yield (FET Points)](rewards-and-points-system/reserve-staking-yield-fet-points.md)
+* [Reserve Staking Yield (FXT Points)](rewards-and-points-system/reserve-staking-yield-fxt-points.md)
 * [Founders Reserve](rewards-and-points-system/founders-reserve.md)
 * [Streaks & Loyalty](rewards-and-points-system/streaks-and-loyalty.md)
 * [Tokenomics Overview](rewards-and-points-system/tokenomics-overview.md)

@@ -4,7 +4,7 @@
 
 Once you've selected Regular Staking, you'll land on this screen. Here, you can stake **SOL** or **USDC** and receive **pikSOL** or **pikUSDC** - synthetic liquid restaking tokens (sLSTs) that grow in value over time relative to their base asset. Simply select your asset, enter the amount, and confirm the transaction to start earning yield.
 
-<figure><img src="../.gitbook/assets/Regular Staking, PikSOL, Stake (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Regular Staking, PikSOL, Stake.png" alt=""><figcaption></figcaption></figure>
 
 **1. Token Selection Tabs**\
 Switch between staking SOL or USDC. Your choice determines whether you receive pikSOL or pikUSDC.
@@ -24,8 +24,8 @@ After entering your amount, click Stake and confirm the transaction in your wall
 **6. Arrow Button**\
 This button lets you toggle between staking and unstaking modes. If you want to unstake, pikSOL will be converted back into SOL at the displayed exchange and considering a small withdrawal fee.
 
-**7. FET Points Badge**\
-Shows the number of FET Points you’ve earned or purchased. FET Points are redeemable for Exceed Tokens at a 1:1 ratio on TGE.
+**7. FXT Points Badge**\
+Shows the number of FXT Points you’ve earned or purchased. FXT Points are redeemable for Exceed Tokens at a 1:1 ratio on TGE.
 
 **8. Wallet Button**\
 Shows the connected wallet and allows you to manage wallet interactions (e.g. switch accounts or disconnect).
@@ -39,13 +39,13 @@ By clicking the "Unstake" toggle, the interface switches to enable you to unstak
 
 After selecting the amount you wish to unstake and confirming the transaction, your request enters a 48-hour withdrawal window. You’ll be able to monitor and manage your pending withdrawals directly from this screen.
 
-<figure><img src="../.gitbook/assets/Regular Staking, PikSOL, Unstake (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Regular Staking, PikSOL, Unstake.png" alt=""><figcaption></figcaption></figure>
 
 **1. Amount to Unstake**\
 Enter the amount you want to unstake. pikSOL will be converted into SOL and available to claim after 48 hours. Use the MAX button to automatically fill in your full balance.
 
 **2. Tokens Received**\
-Shows the amount of the SOL / USDC you will receive based on the amount of Parity sLSTs you entered and the current exchange rate, taking into account a small withdrawal fee.
+Shows the amount of the SOL / USDC you will receive based on the amount of Exceed sLSTs you entered and the current exchange rate, taking into account a small withdrawal fee.
 
 **3. Unstake Button**\
 Click this button to begin the unstaking process. Once confirmed in your wallet, a pending withdrawal will be created. Funds will be available for withdrawal after a 48 hour period.
