@@ -4,7 +4,7 @@
 
 The Founders Reserve is an **exclusive group** of early supporters who gain access to premium benefits and long-term alignment with Exceed’s future. A total of **500 seats** are available — split between **Lifetime Seats** and **Competitive Seats** — each granting elevated rewards, governance power, and recognition within the protocol. For more information visit the [Founders Reserve page.](../rewards-and-points-system/founders-reserve.md)
 
-<figure><img src="../.gitbook/assets/Founders Reserve (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Founders Reserve (3).png" alt=""><figcaption></figcaption></figure>
 
 **1. Payment Method Toggle**\
 Select whether you want to purchase FXT Points using SOL or USDC. This choice determines which token you'll use for the transaction.

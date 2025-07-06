@@ -4,7 +4,7 @@
 
 Once you've selected Regular Staking, you'll land on this screen. Here, you can stake **SOL** or **USDC** and receive **pikSOL** or **pikUSDC** - synthetic liquid restaking tokens (sLSTs) that grow in value over time relative to their base asset. Simply select your asset, enter the amount, and confirm the transaction to start earning yield.
 
-<figure><img src="../.gitbook/assets/Regular Staking, PikSOL, Stake.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Regular Staking, PikSOL, Stake (4).png" alt=""><figcaption></figcaption></figure>
 
 **1. Token Selection Tabs**\
 Switch between staking SOL or USDC. Your choice determines whether you receive pikSOL or pikUSDC.
@@ -39,7 +39,7 @@ By clicking the "Unstake" toggle, the interface switches to enable you to unstak
 
 After selecting the amount you wish to unstake and confirming the transaction, your request enters a 48-hour withdrawal window. You’ll be able to monitor and manage your pending withdrawals directly from this screen.
 
-<figure><img src="../.gitbook/assets/Regular Staking, PikSOL, Unstake.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Regular Staking, PikSOL, Unstake (4).png" alt=""><figcaption></figcaption></figure>
 
 **1. Amount to Unstake**\
 Enter the amount you want to unstake. pikSOL will be converted into SOL and available to claim after 48 hours. Use the MAX button to automatically fill in your full balance.

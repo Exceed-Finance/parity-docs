@@ -4,7 +4,7 @@
 
 The Switch Tokens tab allows you to seamlessly convert between respective Regular and Reserve staking tokens at any time. This lets you change staking modes and / or your staking assets without unstaking or interrupting your staking streak.
 
-<figure><img src="../.gitbook/assets/Switch Tokens.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Switch Tokens (2).png" alt=""><figcaption></figcaption></figure>
 
 **1. Token Selection Tab**\
 Choose which token pair you want to switch between.
