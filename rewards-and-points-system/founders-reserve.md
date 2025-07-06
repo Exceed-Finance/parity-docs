@@ -18,11 +18,11 @@ There are two ways to earn a seat:
 
 #### **1. Lifetime Seat (100 seats total)**
 
-Earn or purchase **30 million FXT Points** to secure a **permanent, non-revocable seat**. Once you meet the requirement, the seat is yours for life, regardless of future activity.
+Earn or purchase **3 billion FXT Points** to secure a **permanent, non-revocable seat**. Once you meet the requirement, the seat is yours for life, regardless of future activity.
 
 #### **2. Competitive Seat (400 seats total)**
 
-Hold at least **2 million FXT Points** and maintain a **500-day staking streak** to claim a Competitive Seat.
+Hold at least **200 million FXT Points** and maintain a **500-day staking streak** to claim a Competitive Seat.
 
 These seats are **yours to lose** — meaning:
 

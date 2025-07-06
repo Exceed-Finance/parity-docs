@@ -37,8 +37,6 @@ Once FXT Points convert into Exceed Tokens at TGE:
 * **30% unlocks immediately**
 * **70% vests linearly over 9 months**, **starting after a 3-month cliff**
 
-This structure ensures a healthy balance between liquidity and long-term alignment.
-
 ### Additional Notes
 
 * **FXT Points are non-transferable**
