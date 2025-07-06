@@ -20,37 +20,28 @@ All yields are shown as **annualized, compounded rates**, meaning they account f
 
 Yields are derived from the underlying performance of Exceed’s synthetic yield engines — including JLP trading commissions, funding rates, and validator rewards. See the High-Yielding Synthetic USDC and SOL sections for an explanation of yield sources.&#x20;
 
-**Token Incentives**
+#### **Token Incentives**
 
-Exceed rewards regular stakers with FXT points, calculated in real-time and added continuously to user balances:
+Exceed **rewards regular stakers with FXT points**, calculated in real-time and added continuously to user balances.
 
-• **Real-Time Calculation**
+#### **Real-Time Calculation**
 
-* Every 5 seconds, the protocol compares actual in-kind yield to target APY
-* The difference is minted as FXT points at a 100:1 ratio to future tokens
+Every **5 seconds**, the protocol compares actual in-kind yield to target APY. The difference is minted as FXT points at a 100:1 ratio to future tokens
 
-• **FDV Valuation Schedule**
+#### **FDV Valuation Schedule**
 
-* Initial rewards calculated at $50M FDV
-* FDV valuation escalates progressively to $100M
-* Earlier participants lock in more favorable conversion terms
+Initial rewards are **calculated at a $50M FDV**. The valuation escalates progressively to $100M, so earlier participants lock in more favorable conversion terms.
 
-• **Program Duration**
+#### **Program Duration**
 
-* Incentives automatically phase out as TVL grows
-* Maximum rewards allocated to earliest stakers
+Incentives phase out automatically as TVL grows, **rewarding the earliest stakers** with the maximum benefits.
 
-• **Vesting schedule**&#x20;
+#### **Vesting schedule**&#x20;
 
 Once FXT Points convert into Exceed Tokens at TGE:
 
 * **30% unlocks immediately**
-* **70% vests linearly over 9 months**, **starting after a 3-month cliff**
-
-
-
-\
-
+* **70% vests linearly over 9 months**, starting after a 3-month cliff.
 
 {% hint style="success" %}
 What you see is what you get. No guesswork, no lag.
