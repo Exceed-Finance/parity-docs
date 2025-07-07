@@ -8,7 +8,9 @@ description: The Synthetic Staking Protocol
 
 ## What is Exceed?
 
-Exceed is a **synthetic staking protocol** built to redefine how staking is done. Inspired by how smart beta and active ETFs outperform passive index investing in traditional finance, Exceed brings a similar philosophy to crypto — combining staking simplicity with systematic, rule-based yield enhancement that improves returns without introducing speculative risk.
+**Exceed is a Stablecoin Yield and Synthetic Staking platform** redefining how on-chain yield is generated and accesse&#x64;**.** It is a **vertically integrated protocol** — spanning proprietary yield engines, a developer SDK, and a user-friendly frontend — built to deliver the highest yields for both institutional users and crypto-native participants.
+
+Inspired by smart beta ETFs in traditional finance, Exceed applies systematic, rules-based yield generation to crypto — enhancing returns while maintaining transparency and simplicity.
 
 #### Smarter, More Flexible, and More Rewarding Staking
 
@@ -28,7 +30,7 @@ In practice, users receive a **synthetic liquid staking token (sLST)** — such 
 
 ## Why Exceed Exists
 
-Staking, in its current form, leaves much to be desired. Yields are typically low, inflexible, and unresponsive to real-time market conditions. On the other hand, many newer “yield-enhancing” protocols introduce unnecessary complexity, lack transparency, rely on active trading, and often do not offer principal protection — exposing users to avoidable risk.
+Staking, in its current form, leaves much to be desired. Yields are typically low, inflexible, and unresponsive to real-time market conditions. On the other hand, many newer “yield-enhancing” protocols introduce unnecessary complexity, lack transparency, rely on directional trading, and often do not offer principal protection — exposing users to avoidable risk.
 
 Exceed takes a different path.
 
