@@ -44,15 +44,15 @@ We’re building a robust, transparent infrastructure layer designed to:
 
 #### Higher, More Sustainable Yields
 
-Exceed is launching with **25% APY on SOL** and **20% APY on USDC,** partly funded with token incentives
+* Exceed is launching with **25% APY on SOL** and **20% APY on USDC,** partly funded with token incentives
 
 #### Proven Performance
 
-V1 has been live on Solana mainnet (private beta) since October 2024, consistently outperforming all benchmarks
+* V1 has been live on Solana mainnet (private beta) since October 2024, consistently outperforming all benchmarks
 
 #### Simple UX, Smarter Back-End
 
-Familiar staking experience with transparent, automated optimization behind the scenes
+* Familiar staking experience with transparent, automated optimization behind the scenes
 
 ## How It Works (At a Glance)
 
