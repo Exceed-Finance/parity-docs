@@ -44,7 +44,7 @@ We’re building a robust, transparent infrastructure layer designed to:
 
 #### Higher, More Sustainable Yields
 
-E.g. **15–20% APY** on SOL and USDC-based staking, by combining validator and market rewards
+Exceed is launching with **25% APY on SOL** and **20% APY on USDC,** partly funded with token incentives
 
 #### Proven Performance
 
