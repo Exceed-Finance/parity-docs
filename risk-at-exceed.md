@@ -32,4 +32,4 @@ In extreme scenarios, the protocol can shift colateral into Franklin Templetonâ€
 
 All smart contracts have been audited by top-tier security firms and rigorously tested. Ongoing monitoring and structured internal reviews ensure continued protocol integrity. Check our latest aduit by Quantstamp here:
 
-{% embed url="https://certificate.quantstamp.com/full/parity-finance/02ef0b3b-599c-4c50-8a8b-c085fdfa0db0/index.html" %}
+{% embed url="https://certificate.quantstamp.com/full/exceed-finance-liquid-staking-early-purchase/cde4c9ed-dfc2-460f-bc2c-780ce622fff7/index.html" %}
