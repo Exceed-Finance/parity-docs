@@ -4,7 +4,7 @@
 
 For users seeking **higher APYs** and **deeper participation** in the Exceed ecosystem, Reserve Staking offers an advanced path. When staking in Reserve mode, users receive **pitSOL** or **pitUSDC** — tokens that stay pegged 1:1 to the underlying asset. Instead of growing in value, rewards are accrued as **FXT Points** (Future Exceed Tokens), which can later be redeemed 1:1 for Exceed Tokens at TGE. Choose your asset, enter the amount, and confirm the transaction to begin earning.
 
-<figure><img src="../.gitbook/assets/Reserve Staking, PitSOL, Unstake.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Reserve Staking, PitSOL, Stake (5).png" alt=""><figcaption></figcaption></figure>
 
 **1. Token Selection Tabs**\
 Switch between staking SOL or USDC. Your choice determines whether you receive pitSOL or pitUSDC.
