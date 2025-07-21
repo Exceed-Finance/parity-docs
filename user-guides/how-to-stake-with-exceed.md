@@ -20,7 +20,7 @@ For users seeking **higher APYs** and **deeper participation** in the Exceed eco
 PiT stands for “Payment-in-Token” — rewards are paid in FXT Points rather than in-kind.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Choose Staking (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Choose Staking.png" alt=""><figcaption></figcaption></figure>
 
 **1.  Navigation Bar** \
 The top navigation bar allows you to switch between the core protocol modules:
