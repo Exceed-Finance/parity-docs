@@ -4,6 +4,10 @@
 
 * [Exceed Finance Overview](README.md)
 
+## ADDRESSES
+
+* [Liquid Staking Program Addresses](addresses/liquid-staking-program-addresses.md)
+
 ## USER GUIDES
 
 * [How to stake with Exceed](user-guides/how-to-stake-with-exceed.md)
@@ -18,10 +22,7 @@
 * [Synthetic Staking](mechanics-and-infrastructure/synthetic-staking.md)
 * [High-Yielding Synthetic SOL](mechanics-and-infrastructure/high-yielding-synthetic-sol.md)
 * [High-Yielding Synthetic USDC](mechanics-and-infrastructure/high-yielding-synthetic-usdc.md)
-
-***
-
-* [Risk at Exceed](risk-at-exceed.md)
+* [Risk at Exceed](mechanics-and-infrastructure/risk-at-exceed.md)
 
 ## REWARDS AND POINTS SYSTEM
 
